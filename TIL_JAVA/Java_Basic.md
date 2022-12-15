@@ -1,5 +1,5 @@
 # Java Basic
-> Back to Basic
+> Back to Basic, 계속해서 수정됩니다.
 >
 ## 객체(Object)
 속성 + 동작으로 설명할 수 있는 대상을 의미 
@@ -52,11 +52,6 @@
 - static : 객체 생성 없이 사용하고 싶을 때
 - final : 변경이 불가
 - abstract : 미완의
-
-
-
-
-
 
 ## 초기화(Initialization)
 자바에서 초기화란 객체를 선언하고 값을 **최초**로 할당하는 것이다.
